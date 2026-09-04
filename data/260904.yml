@@ -7,7 +7,7 @@ about:
   head: 5203c4a
   archived: false
   latestVersion: v0.2.3
-  collectedAt: 2026-09-04T19:25:00Z
+  collectedAt: 2026-09-04T21:06:42Z
 timeline:
   created: 2025-12-05
   lastCommit: 2026-09-04
@@ -82,5 +82,48 @@ total:
   openIssue: 0
   commit: 84
 ---
+path: /home/runner/.x-repo/github.com/steipete/eightctl
+collectedAt: 2026-09-04T21:06:43Z
+loc:
+  Go:
+    code: 6786
+    comments: 142
+    blanks: 706
+    files: 66
+  Bash:
+    code: 214
+    comments: 4
+    blanks: 17
+    files: 2
+  Sh:
+    code: 32
+    comments: 2
+    blanks: 7
+    files: 2
+  Json:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 10
+    comments: 0
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 6
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 230
+    blanks: 95
+    files: 3
+total:
+  code: 7075
+  comments: 378
+  blanks: 832
+  files: 76
 ---
 
