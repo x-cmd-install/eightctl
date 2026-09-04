@@ -1,0 +1,58 @@
+about:
+  description: Eight Sleep cli to fetch data and control your pods.
+  license: MIT
+  homepage: https://eightctl.sh
+  head: dac2103
+  archived: false
+  latestVersion: v0.2.3
+  collectedAt: 2026-09-04T04:21:18Z
+timeline:
+  created: 2025-12-05
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-14
+popularity:
+  star: 96
+  watcher: 1
+  fork: 29
+  release: 4
+  contributor: 6
+  pullRequest: 18
+  issue: 14
+language:
+  Go: 221747
+  Shell: 9803
+  Makefile: 495
+totalLine: 232045
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 6
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-06-06
+    release: 4
+    mergedPR: 32
+    openPR: 2
+    closedIssue: 1
+    openIssue: 0
+    commit: 36
+  last180d:
+    since: 2026-03-08
+    release: 4
+    mergedPR: 41
+    openPR: 2
+    closedIssue: 2
+    openIssue: 0
+    commit: 53
+  last360d:
+    since: 2025-09-09
+    release: 4
+    mergedPR: 43
+    openPR: 2
+    closedIssue: 14
+    openIssue: 0
+    commit: 82
