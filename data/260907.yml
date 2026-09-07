@@ -1,0 +1,161 @@
+about:
+  description: "Eight Sleep cli to fetch data and control your pods."
+  license: MIT
+  homepage: https://eightctl.sh
+  head: 3c824db
+  archived: false
+  latestVersion: "v0.2.4"
+  collectedAt: 2026-09-07T05:33:04Z
+timeline:
+  created: 2025-12-05
+  lastCommit: 2026-09-05
+  lastRelease: 2026-09-05
+popularity:
+  star: 96
+  watcher: 1
+  fork: 29
+  release: 5
+  contributor: 6
+  pullRequest: 68
+  issue: 14
+language:
+  Go: 245125
+  Shell: 9803
+  Makefile: 495
+totalBytes: 255423
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 2
+    mergedPR: 12
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 11
+  last60d:
+    since: 2026-07-09
+    release: 5
+    mergedPR: 35
+    openPR: 2
+    closedIssue: 1
+    openIssue: 0
+    commit: 37
+  last90d:
+    since: 2026-06-09
+    release: 5
+    mergedPR: 38
+    openPR: 2
+    closedIssue: 1
+    openIssue: 0
+    commit: 42
+  last180d:
+    since: 2026-03-11
+    release: 5
+    mergedPR: 47
+    openPR: 2
+    closedIssue: 2
+    openIssue: 0
+    commit: 59
+  last360d:
+    since: 2025-09-12
+    release: 5
+    mergedPR: 49
+    openPR: 2
+    closedIssue: 14
+    openIssue: 0
+    commit: 88
+  last720d:
+    since: 2024-09-17
+    release: 5
+    mergedPR: 49
+    openPR: 2
+    closedIssue: 14
+    openIssue: 0
+    commit: 88
+total:
+  release: 5
+  mergedPR: 49
+  openPR: 2
+  closedIssue: 14
+  openIssue: 0
+  commit: 88
+---
+path: /home/runner/.x-repo/github.com/steipete/eightctl
+collectedAt: 2026-09-07T05:33:05Z
+loc:
+  Go:
+    code: 7194
+    comments: 149
+    blanks: 732
+    files: 68
+  Bash:
+    code: 214
+    comments: 4
+    blanks: 17
+    files: 2
+  Yaml:
+    code: 84
+    comments: 0
+    blanks: 26
+    files: 1
+  Sh:
+    code: 32
+    comments: 2
+    blanks: 7
+    files: 2
+  Json:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 10
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 239
+    blanks: 100
+    files: 3
+total:
+  code: 7561
+  comments: 394
+  blanks: 886
+  files: 78
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:33:05+00:00
+  platform:
+    darwin/arm64:
+      name:  eightctl_0.2.4_darwin_arm64.tar.gz
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_darwin_arm64.tar.gz
+      size:  4313846
+      score: 145
+    darwin/amd64:
+      name:  eightctl_0.2.4_darwin_amd64.tar.gz
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_darwin_amd64.tar.gz
+      size:  4803201
+      score: 145
+    linux/arm64:
+      name:  eightctl_0.2.4_linux_arm64.tar.gz
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_linux_arm64.tar.gz
+      size:  4299256
+      score: 145
+    linux/amd64:
+      name:  eightctl_0.2.4_linux_amd64.tar.gz
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_linux_amd64.tar.gz
+      size:  4802160
+      score: 145
+    win/arm64:
+      name:  eightctl_0.2.4_windows_arm64.zip
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_windows_arm64.zip
+      size:  4242536
+      score: 45
+    win/amd64:
+      name:  eightctl_0.2.4_windows_amd64.zip
+      url:   https://github.com/steipete/eightctl/releases/download/v0.2.4/eightctl_0.2.4_windows_amd64.zip
+      size:  4789277
+      score: 45
