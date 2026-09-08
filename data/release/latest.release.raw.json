@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4313698,
       "digest": "sha256:6b4680a7a7e7a7064a787674f0add63736d9aaefa3bb628ccfecbd28aa7b4ba8",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-07T17:50:41Z",
       "updated_at": "2026-09-07T17:50:42Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.5/eightctl_0.2.5_darwin_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 757,
       "digest": "sha256:42143e36de9671a138ca55cdacf9afe39aa0d5fe3bc300adf10d9625f23feb82",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-07T17:50:39Z",
       "updated_at": "2026-09-07T17:50:39Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.5/RELEASE-NOTES.md"
