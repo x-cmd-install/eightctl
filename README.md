@@ -14,11 +14,11 @@ x install eightctl
 
 ## Code insight
 
-Total: **8,415** lines of code across **91** files in the top 5 languages.
+Total: **8,603** lines of code across **92** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,998 | 159 | 808 | 85 |
+| Go | 8,186 | 158 | 823 | 86 |
 | Bash | 214 | 4 | 17 | 2 |
 | Yaml | 129 | 0 | 38 | 1 |
 | Sh | 32 | 2 | 7 | 2 |
@@ -33,27 +33,27 @@ Total: **8,415** lines of code across **91** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.7` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 96 · **Forks**: 30 · **Open issues**: 14 · **Contributors**: 6
+- **Stars**: 97 · **Forks**: 30 · **Open issues**: 14 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 75 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 114
+- **Releases**: 8 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 4 | 33 | 0 | 0 | 0 | 34 |
-| last60d | 2026-07-17 | 8 | 58 | 0 | 0 | 0 | 43 |
-| 90d | 2026-06-17 | 8 | 64 | 0 | 1 | 0 | 68 |
-| last180d | 2026-03-19 | 8 | 71 | 0 | 2 | 0 | 85 |
-| 360d | 2025-09-20 | 8 | 75 | 0 | 14 | 0 | 114 |
-| last720d | 2024-09-25 | 8 | 75 | 0 | 14 | 0 | 114 |
+| 30d | 2026-08-17 | 4 | 35 | 0 | 0 | 0 | 36 |
+| last60d | 2026-07-18 | 7 | 45 | 0 | 0 | 0 | 45 |
+| 90d | 2026-06-18 | 8 | 66 | 0 | 1 | 0 | 70 |
+| last180d | 2026-03-20 | 8 | 73 | 0 | 2 | 0 | 87 |
+| 360d | 2025-09-21 | 8 | 77 | 0 | 14 | 0 | 116 |
+| last720d | 2024-09-26 | 8 | 77 | 0 | 14 | 0 | 116 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:00:23Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:50:38Z._
