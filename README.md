@@ -4,7 +4,7 @@
 
 Eight Sleep cli to fetch data and control your pods.
 
-[![x-cmd/install — eightctl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/eightctl.svg)](https://x-cmd.com/install/eightctl)
+[![x-cmd/install — eightctl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/eightctl.svg)](https://x-cmd.com/install/eightctl)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install eightctl
 
 ## Code insight
 
-Total: **8,603** lines of code across **92** files in the top 5 languages.
+Total: **8,667** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,186 | 158 | 823 | 86 |
+| Go | 8,250 | 159 | 825 | 87 |
 | Bash | 214 | 4 | 17 | 2 |
 | Yaml | 129 | 0 | 38 | 1 |
 | Sh | 32 | 2 | 7 | 2 |
@@ -32,8 +32,8 @@ Total: **8,603** lines of code across **92** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.7` (2026-09-14)
-- **Last commit**: 2026-09-15
+- **Latest**: `v0.2.8` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,34 +42,34 @@ Total: **8,603** lines of code across **92** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 116
+- **Releases**: 9 · **Merged PRs**: 82 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 121
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 35 | 0 | 0 | 1 | 36 |
-| last60d | 2026-07-24 | 6 | 45 | 0 | 0 | 1 | 45 |
-| 90d | 2026-06-24 | 8 | 66 | 0 | 1 | 1 | 69 |
-| last180d | 2026-03-26 | 8 | 73 | 0 | 2 | 1 | 87 |
-| 360d | 2025-09-27 | 8 | 77 | 0 | 14 | 1 | 116 |
-| last720d | 2024-10-02 | 8 | 77 | 0 | 14 | 1 | 116 |
+| 30d | 2026-08-24 | 5 | 40 | 0 | 0 | 1 | 41 |
+| last60d | 2026-07-25 | 7 | 50 | 0 | 0 | 1 | 50 |
+| 90d | 2026-06-25 | 9 | 71 | 0 | 1 | 1 | 74 |
+| last180d | 2026-03-27 | 9 | 78 | 0 | 2 | 1 | 92 |
+| 360d | 2025-09-28 | 9 | 82 | 0 | 14 | 1 | 121 |
+| last720d | 2024-10-03 | 9 | 82 | 0 | 14 | 1 | 121 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/eightctl/releases/download/v0.2.7/ASSET-INVENTORY.json) | 1.8 KiB | `other` |
-| [eightctl_0.2.7_darwin_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_darwin_amd64.tar.gz) | 4.9 MiB | `native/darwin/x64` |
-| [eightctl_0.2.7_darwin_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [eightctl_0.2.7_linux_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_linux_amd64.tar.gz) | 4.9 MiB | `native/linux/x64` |
-| [eightctl_0.2.7_linux_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_linux_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
-| [eightctl_0.2.7_universal_darwin_all.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_universal_darwin_all.tar.gz) | 9.4 MiB | `native/darwin/x64` |
-| [eightctl_0.2.7_windows_amd64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_windows_amd64.zip) | 4.9 MiB | `native/win/x64` |
-| [eightctl_0.2.7_windows_arm64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.7/eightctl_0.2.7_windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
-| [RELEASE-NOTES.md](https://github.com/steipete/eightctl/releases/download/v0.2.7/RELEASE-NOTES.md) | 1.7 KiB | `other` |
-| [SHA256SUMS](https://github.com/steipete/eightctl/releases/download/v0.2.7/SHA256SUMS) | 967 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/eightctl/releases/download/v0.2.7/SIGNING-MANIFEST.json) | 1.8 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/eightctl/releases/download/v0.2.8/ASSET-INVENTORY.json) | 1.8 KiB | `other` |
+| [eightctl_0.2.8_darwin_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_darwin_amd64.tar.gz) | 4.9 MiB | `native/darwin/x64` |
+| [eightctl_0.2.8_darwin_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [eightctl_0.2.8_linux_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_linux_amd64.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [eightctl_0.2.8_linux_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_linux_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
+| [eightctl_0.2.8_universal_darwin_all.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_universal_darwin_all.tar.gz) | 9.4 MiB | `native/darwin/x64` |
+| [eightctl_0.2.8_windows_amd64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_windows_amd64.zip) | 4.9 MiB | `native/win/x64` |
+| [eightctl_0.2.8_windows_arm64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
+| [RELEASE-NOTES.md](https://github.com/steipete/eightctl/releases/download/v0.2.8/RELEASE-NOTES.md) | 876 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/eightctl/releases/download/v0.2.8/SHA256SUMS) | 967 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/eightctl/releases/download/v0.2.8/SIGNING-MANIFEST.json) | 1.8 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:49:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:12Z._
