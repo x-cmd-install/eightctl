@@ -33,27 +33,27 @@ Total: **8,667** lines of code across **93** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.8` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-30
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 99 · **Forks**: 31 · **Open issues**: 15 · **Contributors**: 6
+- **Stars**: 100 · **Forks**: 31 · **Open issues**: 15 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 82 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 121
+- **Releases**: 9 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 5 | 40 | 0 | 0 | 1 | 39 |
-| last60d | 2026-07-31 | 7 | 50 | 0 | 0 | 1 | 45 |
-| 90d | 2026-07-01 | 9 | 68 | 0 | 1 | 1 | 71 |
-| last180d | 2026-04-02 | 9 | 78 | 0 | 1 | 1 | 92 |
-| 360d | 2025-10-04 | 9 | 82 | 0 | 14 | 1 | 121 |
-| last720d | 2024-10-09 | 9 | 82 | 0 | 14 | 1 | 121 |
+| 30d | 2026-08-31 | 5 | 38 | 0 | 0 | 1 | 40 |
+| last60d | 2026-08-01 | 7 | 51 | 0 | 0 | 1 | 46 |
+| 90d | 2026-07-02 | 9 | 69 | 0 | 1 | 1 | 72 |
+| last180d | 2026-04-03 | 9 | 79 | 0 | 1 | 1 | 93 |
+| 360d | 2025-10-05 | 9 | 83 | 0 | 14 | 1 | 122 |
+| last720d | 2024-10-10 | 9 | 83 | 0 | 14 | 1 | 122 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:25:57Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:19:14Z._
