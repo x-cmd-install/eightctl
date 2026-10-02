@@ -32,8 +32,8 @@ Total: **8,667** lines of code across **93** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.8` (2026-09-22)
-- **Last commit**: 2026-09-30
+- **Latest**: `v0.2.9` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,34 +42,34 @@ Total: **8,667** lines of code across **93** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 122
+- **Releases**: 10 · **Merged PRs**: 85 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 5 | 38 | 0 | 0 | 1 | 40 |
-| last60d | 2026-08-02 | 7 | 51 | 0 | 0 | 1 | 46 |
-| 90d | 2026-07-03 | 9 | 69 | 0 | 1 | 1 | 72 |
-| last180d | 2026-04-04 | 9 | 79 | 0 | 1 | 1 | 93 |
-| 360d | 2025-10-06 | 9 | 83 | 0 | 14 | 1 | 122 |
-| last720d | 2024-10-11 | 9 | 83 | 0 | 14 | 1 | 122 |
+| 30d | 2026-09-02 | 6 | 40 | 0 | 0 | 1 | 42 |
+| last60d | 2026-08-03 | 8 | 48 | 0 | 0 | 1 | 48 |
+| 90d | 2026-07-04 | 10 | 71 | 0 | 1 | 1 | 74 |
+| last180d | 2026-04-05 | 10 | 81 | 0 | 1 | 1 | 95 |
+| 360d | 2025-10-07 | 10 | 85 | 0 | 14 | 1 | 124 |
+| last720d | 2024-10-12 | 10 | 85 | 0 | 14 | 1 | 124 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/eightctl/releases/download/v0.2.8/ASSET-INVENTORY.json) | 1.8 KiB | `other` |
-| [eightctl_0.2.8_darwin_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_darwin_amd64.tar.gz) | 4.9 MiB | `native/darwin/x64` |
-| [eightctl_0.2.8_darwin_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [eightctl_0.2.8_linux_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_linux_amd64.tar.gz) | 4.9 MiB | `native/linux/x64` |
-| [eightctl_0.2.8_linux_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_linux_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
-| [eightctl_0.2.8_universal_darwin_all.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_universal_darwin_all.tar.gz) | 9.4 MiB | `native/darwin/x64` |
-| [eightctl_0.2.8_windows_amd64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_windows_amd64.zip) | 4.9 MiB | `native/win/x64` |
-| [eightctl_0.2.8_windows_arm64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.8/eightctl_0.2.8_windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
-| [RELEASE-NOTES.md](https://github.com/steipete/eightctl/releases/download/v0.2.8/RELEASE-NOTES.md) | 876 B | `other` |
-| [SHA256SUMS](https://github.com/steipete/eightctl/releases/download/v0.2.8/SHA256SUMS) | 967 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/eightctl/releases/download/v0.2.8/SIGNING-MANIFEST.json) | 1.8 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/eightctl/releases/download/v0.2.9/ASSET-INVENTORY.json) | 1.8 KiB | `other` |
+| [eightctl_0.2.9_darwin_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_darwin_amd64.tar.gz) | 4.9 MiB | `native/darwin/x64` |
+| [eightctl_0.2.9_darwin_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_darwin_arm64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [eightctl_0.2.9_linux_amd64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_linux_amd64.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [eightctl_0.2.9_linux_arm64.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_linux_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
+| [eightctl_0.2.9_universal_darwin_all.tar.gz](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_universal_darwin_all.tar.gz) | 9.4 MiB | `native/darwin/x64` |
+| [eightctl_0.2.9_windows_amd64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_windows_amd64.zip) | 4.9 MiB | `native/win/x64` |
+| [eightctl_0.2.9_windows_arm64.zip](https://github.com/steipete/eightctl/releases/download/v0.2.9/eightctl_0.2.9_windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
+| [RELEASE-NOTES.md](https://github.com/steipete/eightctl/releases/download/v0.2.9/RELEASE-NOTES.md) | 494 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/eightctl/releases/download/v0.2.9/SHA256SUMS) | 967 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/eightctl/releases/download/v0.2.9/SIGNING-MANIFEST.json) | 1.8 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:32:57Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:21:47Z._
