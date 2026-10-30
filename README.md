@@ -48,12 +48,12 @@ Total: **8,727** lines of code across **94** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 8 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-30 | 8 | 48 | 1 | 0 | 1 | 47 |
-| 90d | 2026-07-31 | 10 | 58 | 1 | 0 | 1 | 53 |
-| last180d | 2026-05-02 | 12 | 79 | 1 | 1 | 1 | 83 |
-| 360d | 2025-11-03 | 12 | 90 | 1 | 14 | 1 | 129 |
-| last720d | 2024-11-08 | 12 | 90 | 1 | 14 | 1 | 129 |
+| 30d | 2026-09-30 | 3 | 7 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-31 | 8 | 45 | 1 | 0 | 1 | 47 |
+| 90d | 2026-08-01 | 10 | 58 | 1 | 0 | 1 | 53 |
+| last180d | 2026-05-03 | 12 | 79 | 1 | 1 | 1 | 83 |
+| 360d | 2025-11-04 | 12 | 90 | 1 | 14 | 1 | 129 |
+| last720d | 2024-11-09 | 12 | 90 | 1 | 14 | 1 | 129 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:28:51Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:30:28Z._
