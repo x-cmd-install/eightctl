@@ -42,18 +42,18 @@ Total: **8,727** lines of code across **94** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 90 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 129
+- **Releases**: 12 · **Merged PRs**: 90 · **Open PRs**: 4 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-09-07 | 7 | 35 | 3 | 0 | 1 | 35 |
-| 90d | 2026-08-08 | 9 | 53 | 3 | 0 | 1 | 53 |
-| last180d | 2026-05-10 | 12 | 79 | 3 | 1 | 1 | 83 |
-| 360d | 2025-11-11 | 12 | 90 | 3 | 14 | 1 | 129 |
-| last720d | 2024-11-16 | 12 | 90 | 3 | 14 | 1 | 129 |
+| 30d | 2026-10-08 | 2 | 4 | 3 | 0 | 0 | 4 |
+| last60d | 2026-09-08 | 6 | 35 | 4 | 0 | 1 | 35 |
+| 90d | 2026-08-09 | 9 | 53 | 4 | 0 | 1 | 53 |
+| last180d | 2026-05-11 | 12 | 79 | 4 | 1 | 1 | 83 |
+| 360d | 2025-11-12 | 12 | 90 | 4 | 14 | 1 | 129 |
+| last720d | 2024-11-17 | 12 | 90 | 4 | 14 | 1 | 129 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:22:08Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:39:38Z._
