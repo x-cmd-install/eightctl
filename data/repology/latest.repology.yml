@@ -3,7 +3,7 @@
   binname: eightctl
   visiblename: misc/eightctl
   version: 0.2.11
-  origversion: null
+  origversion: 0.2.11_1
   status: unique
   summary: Control your sleep from the terminal
   maintainers:
