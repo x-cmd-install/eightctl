@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1896,
       "digest": "sha256:e9a092cd5f5f10fc572dcd08be8e37201b6e477fbef26bb79c3f5791ad4d5671",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-16T07:56:03Z",
       "updated_at": "2026-11-16T07:56:04Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/ASSET-INVENTORY.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4599428,
       "digest": "sha256:244e37bf6520eae8b150180f8f71d0f2f5ffcf94d17bcd2452ae84fb9ae22178",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-16T07:56:07Z",
       "updated_at": "2026-11-16T07:56:07Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/eightctl_0.2.12_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5174381,
       "digest": "sha256:ac3be8ace339bf4069f8fe44d9592d4790fdc347dfe0f2d64e39e6a3f89bd54f",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-16T07:56:08Z",
       "updated_at": "2026-11-16T07:56:08Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/eightctl_0.2.12_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5167115,
       "digest": "sha256:5d3bc71543277b467f24affea9f49047f04ee65f43ac7361965c62bd88fb4b41",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T07:56:11Z",
       "updated_at": "2026-11-16T07:56:11Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/eightctl_0.2.12_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 519,
       "digest": "sha256:523f492be766d450c18de2251db5c53d1db4be40a08d9efffbdb36859d618fec",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T07:56:04Z",
       "updated_at": "2026-11-16T07:56:04Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/RELEASE-NOTES.md"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 974,
       "digest": "sha256:ea0d89fb53e19d5e725e105122b4dfe8fd12b957ca7c628f51783377f645aa10",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-16T07:56:05Z",
       "updated_at": "2026-11-16T07:56:05Z",
       "browser_download_url": "https://github.com/steipete/eightctl/releases/download/v0.2.12/SHA256SUMS"
