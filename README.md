@@ -38,7 +38,7 @@ Total: **9,104** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 105 · **Forks**: 31 · **Open issues**: 15 · **Contributors**: 7
+- **Stars**: 106 · **Forks**: 31 · **Open issues**: 15 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,104** lines of code across **99** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-22 | 5 | 11 | 1 | 0 | 0 | 11 |
-| 90d | 2026-08-23 | 9 | 51 | 1 | 1 | 0 | 52 |
-| last180d | 2026-05-25 | 13 | 82 | 1 | 2 | 0 | 86 |
-| 360d | 2025-11-26 | 13 | 93 | 1 | 15 | 0 | 132 |
-| last720d | 2024-12-01 | 13 | 93 | 1 | 15 | 0 | 132 |
+| 30d | 2026-10-23 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-23 | 4 | 11 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-24 | 9 | 51 | 1 | 1 | 0 | 50 |
+| last180d | 2026-05-26 | 13 | 82 | 1 | 2 | 0 | 86 |
+| 360d | 2025-11-27 | 13 | 93 | 1 | 15 | 0 | 132 |
+| last720d | 2024-12-02 | 13 | 93 | 1 | 15 | 0 | 132 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for eightctl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:56:24Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:11:48Z._
